@@ -1,0 +1,169 @@
+roll_no,subject,test1,test2,test3
+23CS001,Data Structures,70,65,77
+23CS001,DBMS,58,61,64
+23CS001,Operating Systems,64,66,61
+23CS001,Computer Networks,67,66,64
+23CS002,Data Structures,84,83,87
+23CS002,DBMS,88,89,92
+23CS002,Operating Systems,65,71,69
+23CS002,Computer Networks,91,97,95
+23CS003,Data Structures,59,53,62
+23CS003,DBMS,77,71,85
+23CS003,Operating Systems,63,68,64
+23CS003,Computer Networks,90,88,88
+23CS004,Data Structures,60,56,58
+23CS004,DBMS,73,67,71
+23CS004,Operating Systems,58,59,64
+23CS004,Computer Networks,59,56,67
+23CS005,Data Structures,59,66,59
+23CS005,DBMS,85,80,82
+23CS005,Operating Systems,64,59,68
+23CS005,Computer Networks,88,87,86
+23CS006,Data Structures,78,77,79
+23CS006,DBMS,70,75,71
+23CS006,Operating Systems,49,36,34
+23CS006,Computer Networks,45,31,30
+23CS007,Data Structures,62,68,62
+23CS007,DBMS,84,78,64
+23CS007,Operating Systems,64,67,73
+23CS007,Computer Networks,61,54,33
+23CS008,Data Structures,89,89,87
+23CS008,DBMS,81,88,91
+23CS008,Operating Systems,55,61,53
+23CS008,Computer Networks,88,90,97
+23CS009,Data Structures,56,62,52
+23CS009,DBMS,83,85,92
+23CS009,Operating Systems,90,98,90
+23CS009,Computer Networks,70,70,66
+23CS010,Data Structures,63,64,64
+23CS010,DBMS,69,65,76
+23CS010,Operating Systems,78,72,82
+23CS010,Computer Networks,73,75,69
+23CS011,Data Structures,63,70,65
+23CS011,DBMS,60,53,32
+23CS011,Operating Systems,60,57,56
+23CS011,Computer Networks,72,66,82
+23CS012,Data Structures,68,61,45
+23CS012,DBMS,90,92,99
+23CS012,Operating Systems,86,75,62
+23CS012,Computer Networks,63,53,47
+23CS013,Data Structures,87,85,88
+23CS013,DBMS,40,42,30
+23CS013,Operating Systems,45,33,36
+23CS013,Computer Networks,31,37,20
+23CS014,Data Structures,79,85,83
+23CS014,DBMS,57,64,67
+23CS014,Operating Systems,87,90,81
+23CS014,Computer Networks,69,64,63
+23EC001,Signals & Systems,32,41,34
+23EC001,Digital Electronics,46,33,31
+23EC001,Microprocessors,45,37,20
+23EC001,Communication Theory,40,28,30
+23EC002,Signals & Systems,71,60,44
+23EC002,Digital Electronics,58,53,34
+23EC002,Microprocessors,67,73,74
+23EC002,Communication Theory,90,84,74
+23EC003,Signals & Systems,43,35,29
+23EC003,Digital Electronics,47,37,23
+23EC003,Microprocessors,40,39,33
+23EC003,Communication Theory,38,43,26
+23EC004,Signals & Systems,86,84,91
+23EC004,Digital Electronics,60,58,61
+23EC004,Microprocessors,63,57,70
+23EC004,Communication Theory,59,59,69
+23EC005,Signals & Systems,84,79,79
+23EC005,Digital Electronics,63,67,65
+23EC005,Microprocessors,88,91,88
+23EC005,Communication Theory,84,82,88
+23EC006,Signals & Systems,58,52,58
+23EC006,Digital Electronics,82,90,87
+23EC006,Microprocessors,67,61,70
+23EC006,Communication Theory,67,64,75
+23EC007,Signals & Systems,58,61,56
+23EC007,Digital Electronics,58,63,53
+23EC007,Microprocessors,60,68,59
+23EC007,Communication Theory,74,78,80
+23EC008,Signals & Systems,90,96,90
+23EC008,Digital Electronics,58,63,67
+23EC008,Microprocessors,56,60,63
+23EC008,Communication Theory,59,65,54
+23EC009,Signals & Systems,75,73,69
+23EC009,Digital Electronics,56,51,65
+23EC009,Microprocessors,86,74,66
+23EC009,Communication Theory,70,60,41
+23EC010,Signals & Systems,85,87,89
+23EC010,Digital Electronics,60,57,57
+23EC010,Microprocessors,81,82,82
+23EC010,Communication Theory,73,71,75
+23EC011,Signals & Systems,67,66,63
+23EC011,Digital Electronics,84,78,81
+23EC011,Microprocessors,57,65,60
+23EC011,Communication Theory,59,58,69
+23EC012,Signals & Systems,77,74,72
+23EC012,Digital Electronics,68,75,62
+23EC012,Microprocessors,68,62,77
+23EC012,Communication Theory,64,68,60
+23EC013,Signals & Systems,77,77,84
+23EC013,Digital Electronics,80,77,74
+23EC013,Microprocessors,78,79,77
+23EC013,Communication Theory,60,63,65
+23EC014,Signals & Systems,74,70,69
+23EC014,Digital Electronics,60,68,59
+23EC014,Microprocessors,85,81,85
+23EC014,Communication Theory,70,75,70
+23ME001,Thermodynamics,71,62,42
+23ME001,Fluid Mechanics,87,77,71
+23ME001,Machine Design,79,70,61
+23ME001,Manufacturing Tech,90,84,67
+23ME002,Thermodynamics,35,44,21
+23ME002,Fluid Mechanics,75,80,70
+23ME002,Machine Design,37,44,21
+23ME002,Manufacturing Tech,48,34,38
+23ME003,Thermodynamics,61,54,38
+23ME003,Fluid Mechanics,77,65,47
+23ME003,Machine Design,66,61,48
+23ME003,Manufacturing Tech,88,90,95
+23ME004,Thermodynamics,55,55,62
+23ME004,Fluid Mechanics,61,59,62
+23ME004,Machine Design,58,56,65
+23ME004,Manufacturing Tech,60,68,70
+23ME005,Thermodynamics,76,79,77
+23ME005,Fluid Mechanics,85,86,95
+23ME005,Machine Design,74,80,74
+23ME005,Manufacturing Tech,56,51,53
+23ME006,Thermodynamics,59,54,64
+23ME006,Fluid Mechanics,61,53,43
+23ME006,Machine Design,73,66,55
+23ME006,Manufacturing Tech,56,47,40
+23ME007,Thermodynamics,81,75,88
+23ME007,Fluid Mechanics,68,73,64
+23ME007,Machine Design,58,52,63
+23ME007,Manufacturing Tech,92,91,100
+23ME008,Thermodynamics,60,61,57
+23ME008,Fluid Mechanics,82,90,76
+23ME008,Machine Design,79,87,80
+23ME008,Manufacturing Tech,57,56,61
+23ME009,Thermodynamics,92,89,90
+23ME009,Fluid Mechanics,74,80,72
+23ME009,Machine Design,65,62,69
+23ME009,Manufacturing Tech,61,58,67
+23ME010,Thermodynamics,30,37,33
+23ME010,Fluid Mechanics,71,71,65
+23ME010,Machine Design,81,85,82
+23ME010,Manufacturing Tech,61,58,67
+23ME011,Thermodynamics,66,74,70
+23ME011,Fluid Mechanics,71,73,71
+23ME011,Machine Design,91,92,91
+23ME011,Manufacturing Tech,76,76,84
+23ME012,Thermodynamics,72,72,78
+23ME012,Fluid Mechanics,92,90,89
+23ME012,Machine Design,80,81,80
+23ME012,Manufacturing Tech,85,89,86
+23ME013,Thermodynamics,63,64,68
+23ME013,Fluid Mechanics,38,36,27
+23ME013,Machine Design,39,37,21
+23ME013,Manufacturing Tech,77,71,71
+23ME014,Thermodynamics,64,61,70
+23ME014,Fluid Mechanics,90,96,93
+23ME014,Machine Design,62,64,59
+23ME014,Manufacturing Tech,85,86,83

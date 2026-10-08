@@ -1,0 +1,88 @@
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; }
+  body { background: transparent; font-family: Inter, system-ui, sans-serif; color: #E6E7EE; overflow: hidden; padding: 2px; }
+  @property --a { syntax: '<angle>'; initial-value: 0deg; inherits: false; }
+  .hero { position: relative; height: 196px; border-radius: 24px; overflow: hidden; padding: 26px 30px;
+    background: radial-gradient(120% 140% at 0% 0%, rgba(124,92,255,.38), transparent 55%),
+                radial-gradient(90% 120% at 100% 100%, rgba(34,211,238,.22), transparent 60%), #0C0C17;
+    animation: rise .8s cubic-bezier(.2,.8,.2,1) both; }
+  .hero::before { content: ""; position: absolute; inset: 0; border-radius: 24px; padding: 1px; pointer-events: none;
+    background: conic-gradient(from var(--a), rgba(124,92,255,.9), rgba(34,211,238,.2), rgba(244,114,182,.9), rgba(124,92,255,.2), rgba(124,92,255,.9));
+    -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite: xor;
+    mask: linear-gradient(#000 0 0) content-box exclude, linear-gradient(#000 0 0); animation: spin 6s linear infinite; }
+  canvas { position: absolute; inset: 0; width: 100%; height: 100%; opacity: .6; }
+  .inner { position: relative; }
+  .chip { display: inline-flex; gap: 8px; align-items: center; padding: 6px 12px; border-radius: 999px;
+    background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.14); font-size: 11px; letter-spacing: .14em;
+    text-transform: uppercase; font-weight: 600; color: #C7C9D9; -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px); }
+  .dot { width: 7px; height: 7px; border-radius: 50%; background: #22D3EE; animation: ping 1.8s infinite; }
+  h1 { font-family: 'Space Grotesk', Inter, sans-serif; font-size: 36px; line-height: 1.1; margin-top: 16px; font-weight: 700;
+    letter-spacing: -.025em; background: linear-gradient(90deg, #fff 0%, #C4B5FD 30%, #67E8F9 60%, #fff 100%);
+    background-size: 200% auto; -webkit-background-clip: text; background-clip: text; color: transparent;
+    animation: shine 7s linear infinite, rise .8s .1s cubic-bezier(.2,.8,.2,1) both; }
+  p { margin-top: 10px; color: #A9ABC0; font-size: 15px; max-width: 780px; line-height: 1.5; animation: rise .8s .2s both; }
+  .kpis { display: grid; grid-template-columns: repeat(__N__, minmax(0, 1fr)); gap: 12px; margin-top: 14px; }
+  .kpi { position: relative; overflow: hidden; padding: 16px 18px; border-radius: 18px; background: rgba(255,255,255,.035);
+    border: 1px solid rgba(255,255,255,.08); animation: rise .8s cubic-bezier(.2,.8,.2,1) both;
+    transition: transform .3s ease, border-color .3s ease, box-shadow .3s ease; }
+  .kpi:hover { transform: translateY(-4px); border-color: var(--tone); box-shadow: 0 20px 50px -24px var(--tone); }
+  .kpi::after { content: ""; position: absolute; width: 120px; height: 120px; right: -40px; top: -50px; border-radius: 50%;
+    background: var(--tone); opacity: .14; filter: blur(20px); }
+  .l { font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: #8E90A6; font-weight: 600; }
+  .v { font-family: 'Space Grotesk', sans-serif; font-size: 36px; font-weight: 700; margin-top: 6px; color: #F7F7FB; }
+  .bar { height: 3px; border-radius: 3px; margin-top: 12px; background: linear-gradient(90deg, var(--tone), transparent);
+    transform-origin: left; animation: grow 1.3s .35s cubic-bezier(.2,.8,.2,1) both; }
+  @keyframes rise { from { opacity: 0; transform: translateY(16px) scale(.985); } to { opacity: 1; transform: none; } }
+  @keyframes shine { to { background-position: 200% center; } }
+  @keyframes spin { to { --a: 360deg; } }
+  @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  @keyframes ping { 0% { box-shadow: 0 0 0 0 rgba(34,211,238,.7); } 70% { box-shadow: 0 0 0 9px rgba(34,211,238,0); } 100% { box-shadow: 0 0 0 0 rgba(34,211,238,0); } }
+  @media (prefers-reduced-motion: reduce) { *, *::before { animation: none !important; } }
+</style>
+<div class="hero"><canvas id="net"></canvas>
+  <div class="inner"><span class="chip"><span class="dot"></span>__EYEBROW__</span><h1>__TITLE__</h1><p>__SUB__</p></div>
+</div>
+__KPIS__
+<script>
+  const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  // Particle network behind the headline
+  const cv = document.getElementById('net'), ctx = cv.getContext('2d'), dpr = devicePixelRatio || 1;
+  let W, H; const P = [];
+  const size = () => { W = cv.width = cv.offsetWidth * dpr; H = cv.height = cv.offsetHeight * dpr; };
+  size(); addEventListener('resize', size);
+  for (let i = 0; i < 52; i++) P.push({ x: Math.random() * W, y: Math.random() * H,
+    vx: (Math.random() - .5) * .5 * dpr, vy: (Math.random() - .5) * .5 * dpr });
+  let mx = -1e9, my = -1e9;
+  cv.parentElement.addEventListener('mousemove', e => { const r = cv.getBoundingClientRect(); mx = (e.clientX - r.left) * dpr; my = (e.clientY - r.top) * dpr; });
+  cv.parentElement.addEventListener('mouseleave', () => { mx = my = -1e9; });
+  const R = 130 * dpr;
+  function frame() {
+    ctx.clearRect(0, 0, W, H);
+    for (const p of P) {
+      p.x += p.vx; p.y += p.vy;
+      if (p.x < 0 || p.x > W) p.vx *= -1; if (p.y < 0 || p.y > H) p.vy *= -1;
+      const dx = p.x - mx, dy = p.y - my, d = Math.hypot(dx, dy);
+      if (d < R) { p.x += dx / d * 1.2 * dpr; p.y += dy / d * 1.2 * dpr; }  // gently repel from cursor
+    }
+    for (let i = 0; i < P.length; i++) {
+      for (let j = i + 1; j < P.length; j++) {
+        const d = Math.hypot(P[i].x - P[j].x, P[i].y - P[j].y);
+        if (d < R) { ctx.strokeStyle = `rgba(167,139,250,${(1 - d / R) * .55})`; ctx.lineWidth = .7 * dpr;
+          ctx.beginPath(); ctx.moveTo(P[i].x, P[i].y); ctx.lineTo(P[j].x, P[j].y); ctx.stroke(); }
+      }
+      ctx.fillStyle = 'rgba(165,243,252,.9)'; ctx.beginPath(); ctx.arc(P[i].x, P[i].y, 1.6 * dpr, 0, 7); ctx.fill();
+    }
+    requestAnimationFrame(frame);
+  }
+  if (!reduce) frame();
+  // Count-up KPIs
+  document.querySelectorAll('[data-to]').forEach((el, i) => {
+    const to = parseFloat(el.dataset.to), dec = +el.dataset.dec || 0, suf = el.dataset.suf || '';
+    if (reduce) { el.textContent = to.toFixed(dec) + suf; return; }
+    const t0 = performance.now() + 250 + i * 110;
+    const step = t => { const k = Math.min(1, Math.max(0, (t - t0) / 1300)), e = 1 - Math.pow(1 - k, 4);
+      el.textContent = (to * e).toFixed(dec) + suf; if (k < 1) requestAnimationFrame(step); };
+    requestAnimationFrame(step);
+  });
+</script>

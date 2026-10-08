@@ -1,0 +1,188 @@
+teacher,teacher_email,department,subject,day,slot
+Dr. Priya Raman,priya.raman@example.edu,CSE,Data Structures,Mon,09:00-10:00
+Dr. Priya Raman,priya.raman@example.edu,CSE,Data Structures,Mon,10:00-11:00
+Dr. Priya Raman,priya.raman@example.edu,CSE,Data Structures,Mon,12:15-13:15
+Dr. Priya Raman,priya.raman@example.edu,CSE,Data Structures,Mon,14:00-15:00
+Dr. Priya Raman,priya.raman@example.edu,CSE,Data Structures,Tue,10:00-11:00
+Dr. Priya Raman,priya.raman@example.edu,CSE,Data Structures,Tue,11:15-12:15
+Dr. Priya Raman,priya.raman@example.edu,CSE,Data Structures,Tue,15:00-16:00
+Dr. Priya Raman,priya.raman@example.edu,CSE,Data Structures,Wed,09:00-10:00
+Dr. Priya Raman,priya.raman@example.edu,CSE,Data Structures,Wed,11:15-12:15
+Dr. Priya Raman,priya.raman@example.edu,CSE,Data Structures,Wed,12:15-13:15
+Dr. Priya Raman,priya.raman@example.edu,CSE,Data Structures,Wed,15:00-16:00
+Dr. Priya Raman,priya.raman@example.edu,CSE,Data Structures,Thu,11:15-12:15
+Dr. Priya Raman,priya.raman@example.edu,CSE,Data Structures,Thu,15:00-16:00
+Dr. Priya Raman,priya.raman@example.edu,CSE,Data Structures,Fri,14:00-15:00
+Prof. Arjun Mehta,arjun.mehta@example.edu,CSE,DBMS,Mon,11:15-12:15
+Prof. Arjun Mehta,arjun.mehta@example.edu,CSE,DBMS,Tue,11:15-12:15
+Prof. Arjun Mehta,arjun.mehta@example.edu,CSE,DBMS,Wed,11:15-12:15
+Prof. Arjun Mehta,arjun.mehta@example.edu,CSE,DBMS,Wed,12:15-13:15
+Prof. Arjun Mehta,arjun.mehta@example.edu,CSE,DBMS,Wed,14:00-15:00
+Prof. Arjun Mehta,arjun.mehta@example.edu,CSE,DBMS,Wed,15:00-16:00
+Prof. Arjun Mehta,arjun.mehta@example.edu,CSE,DBMS,Thu,09:00-10:00
+Prof. Arjun Mehta,arjun.mehta@example.edu,CSE,DBMS,Thu,11:15-12:15
+Prof. Arjun Mehta,arjun.mehta@example.edu,CSE,DBMS,Thu,12:15-13:15
+Prof. Arjun Mehta,arjun.mehta@example.edu,CSE,DBMS,Thu,15:00-16:00
+Prof. Arjun Mehta,arjun.mehta@example.edu,CSE,DBMS,Fri,10:00-11:00
+Prof. Arjun Mehta,arjun.mehta@example.edu,CSE,DBMS,Fri,11:15-12:15
+Prof. Arjun Mehta,arjun.mehta@example.edu,CSE,DBMS,Fri,12:15-13:15
+Prof. Arjun Mehta,arjun.mehta@example.edu,CSE,DBMS,Fri,14:00-15:00
+Dr. Kavitha S,kavitha.s@example.edu,CSE,Operating Systems,Mon,10:00-11:00
+Dr. Kavitha S,kavitha.s@example.edu,CSE,Operating Systems,Mon,11:15-12:15
+Dr. Kavitha S,kavitha.s@example.edu,CSE,Operating Systems,Tue,09:00-10:00
+Dr. Kavitha S,kavitha.s@example.edu,CSE,Operating Systems,Tue,10:00-11:00
+Dr. Kavitha S,kavitha.s@example.edu,CSE,Operating Systems,Tue,12:15-13:15
+Dr. Kavitha S,kavitha.s@example.edu,CSE,Operating Systems,Wed,09:00-10:00
+Dr. Kavitha S,kavitha.s@example.edu,CSE,Operating Systems,Wed,11:15-12:15
+Dr. Kavitha S,kavitha.s@example.edu,CSE,Operating Systems,Wed,12:15-13:15
+Dr. Kavitha S,kavitha.s@example.edu,CSE,Operating Systems,Thu,11:15-12:15
+Dr. Kavitha S,kavitha.s@example.edu,CSE,Operating Systems,Thu,14:00-15:00
+Dr. Kavitha S,kavitha.s@example.edu,CSE,Operating Systems,Thu,15:00-16:00
+Dr. Kavitha S,kavitha.s@example.edu,CSE,Operating Systems,Fri,09:00-10:00
+Dr. Kavitha S,kavitha.s@example.edu,CSE,Operating Systems,Fri,12:15-13:15
+Dr. Kavitha S,kavitha.s@example.edu,CSE,Operating Systems,Fri,14:00-15:00
+Dr. Kavitha S,kavitha.s@example.edu,CSE,Operating Systems,Fri,15:00-16:00
+Prof. Rahul Nair,rahul.nair@example.edu,CSE,Computer Networks,Mon,09:00-10:00
+Prof. Rahul Nair,rahul.nair@example.edu,CSE,Computer Networks,Mon,10:00-11:00
+Prof. Rahul Nair,rahul.nair@example.edu,CSE,Computer Networks,Mon,14:00-15:00
+Prof. Rahul Nair,rahul.nair@example.edu,CSE,Computer Networks,Tue,11:15-12:15
+Prof. Rahul Nair,rahul.nair@example.edu,CSE,Computer Networks,Tue,12:15-13:15
+Prof. Rahul Nair,rahul.nair@example.edu,CSE,Computer Networks,Tue,14:00-15:00
+Prof. Rahul Nair,rahul.nair@example.edu,CSE,Computer Networks,Tue,15:00-16:00
+Prof. Rahul Nair,rahul.nair@example.edu,CSE,Computer Networks,Wed,12:15-13:15
+Prof. Rahul Nair,rahul.nair@example.edu,CSE,Computer Networks,Wed,15:00-16:00
+Prof. Rahul Nair,rahul.nair@example.edu,CSE,Computer Networks,Thu,09:00-10:00
+Prof. Rahul Nair,rahul.nair@example.edu,CSE,Computer Networks,Thu,10:00-11:00
+Prof. Rahul Nair,rahul.nair@example.edu,CSE,Computer Networks,Thu,11:15-12:15
+Prof. Rahul Nair,rahul.nair@example.edu,CSE,Computer Networks,Thu,12:15-13:15
+Prof. Rahul Nair,rahul.nair@example.edu,CSE,Computer Networks,Thu,14:00-15:00
+Prof. Rahul Nair,rahul.nair@example.edu,CSE,Computer Networks,Thu,15:00-16:00
+Prof. Rahul Nair,rahul.nair@example.edu,CSE,Computer Networks,Fri,12:15-13:15
+Prof. Rahul Nair,rahul.nair@example.edu,CSE,Computer Networks,Fri,14:00-15:00
+Prof. Rahul Nair,rahul.nair@example.edu,CSE,Computer Networks,Fri,15:00-16:00
+Dr. Suresh Kumar,suresh.kumar@example.edu,ECE,Signals & Systems,Mon,10:00-11:00
+Dr. Suresh Kumar,suresh.kumar@example.edu,ECE,Signals & Systems,Mon,12:15-13:15
+Dr. Suresh Kumar,suresh.kumar@example.edu,ECE,Signals & Systems,Tue,12:15-13:15
+Dr. Suresh Kumar,suresh.kumar@example.edu,ECE,Signals & Systems,Tue,14:00-15:00
+Dr. Suresh Kumar,suresh.kumar@example.edu,ECE,Signals & Systems,Wed,09:00-10:00
+Dr. Suresh Kumar,suresh.kumar@example.edu,ECE,Signals & Systems,Wed,11:15-12:15
+Dr. Suresh Kumar,suresh.kumar@example.edu,ECE,Signals & Systems,Wed,15:00-16:00
+Dr. Suresh Kumar,suresh.kumar@example.edu,ECE,Signals & Systems,Thu,10:00-11:00
+Dr. Suresh Kumar,suresh.kumar@example.edu,ECE,Signals & Systems,Thu,12:15-13:15
+Dr. Suresh Kumar,suresh.kumar@example.edu,ECE,Signals & Systems,Fri,09:00-10:00
+Dr. Suresh Kumar,suresh.kumar@example.edu,ECE,Signals & Systems,Fri,10:00-11:00
+Dr. Suresh Kumar,suresh.kumar@example.edu,ECE,Signals & Systems,Fri,11:15-12:15
+Dr. Suresh Kumar,suresh.kumar@example.edu,ECE,Signals & Systems,Fri,14:00-15:00
+Dr. Suresh Kumar,suresh.kumar@example.edu,ECE,Signals & Systems,Fri,15:00-16:00
+Prof. Anitha R,anitha.r@example.edu,ECE,Digital Electronics,Mon,09:00-10:00
+Prof. Anitha R,anitha.r@example.edu,ECE,Digital Electronics,Mon,12:15-13:15
+Prof. Anitha R,anitha.r@example.edu,ECE,Digital Electronics,Mon,15:00-16:00
+Prof. Anitha R,anitha.r@example.edu,ECE,Digital Electronics,Tue,10:00-11:00
+Prof. Anitha R,anitha.r@example.edu,ECE,Digital Electronics,Tue,12:15-13:15
+Prof. Anitha R,anitha.r@example.edu,ECE,Digital Electronics,Tue,15:00-16:00
+Prof. Anitha R,anitha.r@example.edu,ECE,Digital Electronics,Wed,09:00-10:00
+Prof. Anitha R,anitha.r@example.edu,ECE,Digital Electronics,Wed,10:00-11:00
+Prof. Anitha R,anitha.r@example.edu,ECE,Digital Electronics,Wed,11:15-12:15
+Prof. Anitha R,anitha.r@example.edu,ECE,Digital Electronics,Wed,12:15-13:15
+Prof. Anitha R,anitha.r@example.edu,ECE,Digital Electronics,Wed,14:00-15:00
+Prof. Anitha R,anitha.r@example.edu,ECE,Digital Electronics,Thu,09:00-10:00
+Prof. Anitha R,anitha.r@example.edu,ECE,Digital Electronics,Thu,11:15-12:15
+Prof. Anitha R,anitha.r@example.edu,ECE,Digital Electronics,Thu,12:15-13:15
+Prof. Anitha R,anitha.r@example.edu,ECE,Digital Electronics,Thu,14:00-15:00
+Prof. Anitha R,anitha.r@example.edu,ECE,Digital Electronics,Fri,12:15-13:15
+Prof. Anitha R,anitha.r@example.edu,ECE,Digital Electronics,Fri,14:00-15:00
+Dr. Vikram Rao,vikram.rao@example.edu,ECE,Microprocessors,Mon,11:15-12:15
+Dr. Vikram Rao,vikram.rao@example.edu,ECE,Microprocessors,Mon,12:15-13:15
+Dr. Vikram Rao,vikram.rao@example.edu,ECE,Microprocessors,Mon,14:00-15:00
+Dr. Vikram Rao,vikram.rao@example.edu,ECE,Microprocessors,Mon,15:00-16:00
+Dr. Vikram Rao,vikram.rao@example.edu,ECE,Microprocessors,Tue,11:15-12:15
+Dr. Vikram Rao,vikram.rao@example.edu,ECE,Microprocessors,Tue,14:00-15:00
+Dr. Vikram Rao,vikram.rao@example.edu,ECE,Microprocessors,Tue,15:00-16:00
+Dr. Vikram Rao,vikram.rao@example.edu,ECE,Microprocessors,Wed,09:00-10:00
+Dr. Vikram Rao,vikram.rao@example.edu,ECE,Microprocessors,Wed,10:00-11:00
+Dr. Vikram Rao,vikram.rao@example.edu,ECE,Microprocessors,Wed,11:15-12:15
+Dr. Vikram Rao,vikram.rao@example.edu,ECE,Microprocessors,Wed,12:15-13:15
+Dr. Vikram Rao,vikram.rao@example.edu,ECE,Microprocessors,Thu,10:00-11:00
+Dr. Vikram Rao,vikram.rao@example.edu,ECE,Microprocessors,Thu,12:15-13:15
+Dr. Vikram Rao,vikram.rao@example.edu,ECE,Microprocessors,Fri,09:00-10:00
+Dr. Vikram Rao,vikram.rao@example.edu,ECE,Microprocessors,Fri,11:15-12:15
+Dr. Vikram Rao,vikram.rao@example.edu,ECE,Microprocessors,Fri,12:15-13:15
+Dr. Vikram Rao,vikram.rao@example.edu,ECE,Microprocessors,Fri,14:00-15:00
+Dr. Vikram Rao,vikram.rao@example.edu,ECE,Microprocessors,Fri,15:00-16:00
+Prof. Divya Menon,divya.menon@example.edu,ECE,Communication Theory,Mon,09:00-10:00
+Prof. Divya Menon,divya.menon@example.edu,ECE,Communication Theory,Mon,10:00-11:00
+Prof. Divya Menon,divya.menon@example.edu,ECE,Communication Theory,Mon,11:15-12:15
+Prof. Divya Menon,divya.menon@example.edu,ECE,Communication Theory,Mon,14:00-15:00
+Prof. Divya Menon,divya.menon@example.edu,ECE,Communication Theory,Tue,14:00-15:00
+Prof. Divya Menon,divya.menon@example.edu,ECE,Communication Theory,Wed,09:00-10:00
+Prof. Divya Menon,divya.menon@example.edu,ECE,Communication Theory,Wed,14:00-15:00
+Prof. Divya Menon,divya.menon@example.edu,ECE,Communication Theory,Thu,11:15-12:15
+Prof. Divya Menon,divya.menon@example.edu,ECE,Communication Theory,Thu,14:00-15:00
+Prof. Divya Menon,divya.menon@example.edu,ECE,Communication Theory,Thu,15:00-16:00
+Prof. Divya Menon,divya.menon@example.edu,ECE,Communication Theory,Fri,10:00-11:00
+Prof. Divya Menon,divya.menon@example.edu,ECE,Communication Theory,Fri,11:15-12:15
+Prof. Divya Menon,divya.menon@example.edu,ECE,Communication Theory,Fri,12:15-13:15
+Prof. Divya Menon,divya.menon@example.edu,ECE,Communication Theory,Fri,15:00-16:00
+Dr. Ganesh B,ganesh.b@example.edu,MECH,Thermodynamics,Mon,09:00-10:00
+Dr. Ganesh B,ganesh.b@example.edu,MECH,Thermodynamics,Mon,15:00-16:00
+Dr. Ganesh B,ganesh.b@example.edu,MECH,Thermodynamics,Tue,09:00-10:00
+Dr. Ganesh B,ganesh.b@example.edu,MECH,Thermodynamics,Tue,10:00-11:00
+Dr. Ganesh B,ganesh.b@example.edu,MECH,Thermodynamics,Tue,12:15-13:15
+Dr. Ganesh B,ganesh.b@example.edu,MECH,Thermodynamics,Tue,14:00-15:00
+Dr. Ganesh B,ganesh.b@example.edu,MECH,Thermodynamics,Tue,15:00-16:00
+Dr. Ganesh B,ganesh.b@example.edu,MECH,Thermodynamics,Wed,11:15-12:15
+Dr. Ganesh B,ganesh.b@example.edu,MECH,Thermodynamics,Wed,12:15-13:15
+Dr. Ganesh B,ganesh.b@example.edu,MECH,Thermodynamics,Wed,14:00-15:00
+Dr. Ganesh B,ganesh.b@example.edu,MECH,Thermodynamics,Wed,15:00-16:00
+Dr. Ganesh B,ganesh.b@example.edu,MECH,Thermodynamics,Thu,09:00-10:00
+Dr. Ganesh B,ganesh.b@example.edu,MECH,Thermodynamics,Thu,10:00-11:00
+Dr. Ganesh B,ganesh.b@example.edu,MECH,Thermodynamics,Thu,11:15-12:15
+Dr. Ganesh B,ganesh.b@example.edu,MECH,Thermodynamics,Thu,15:00-16:00
+Dr. Ganesh B,ganesh.b@example.edu,MECH,Thermodynamics,Fri,12:15-13:15
+Dr. Ganesh B,ganesh.b@example.edu,MECH,Thermodynamics,Fri,14:00-15:00
+Prof. Lakshmi N,lakshmi.n@example.edu,MECH,Fluid Mechanics,Mon,09:00-10:00
+Prof. Lakshmi N,lakshmi.n@example.edu,MECH,Fluid Mechanics,Mon,10:00-11:00
+Prof. Lakshmi N,lakshmi.n@example.edu,MECH,Fluid Mechanics,Mon,12:15-13:15
+Prof. Lakshmi N,lakshmi.n@example.edu,MECH,Fluid Mechanics,Mon,15:00-16:00
+Prof. Lakshmi N,lakshmi.n@example.edu,MECH,Fluid Mechanics,Tue,14:00-15:00
+Prof. Lakshmi N,lakshmi.n@example.edu,MECH,Fluid Mechanics,Tue,15:00-16:00
+Prof. Lakshmi N,lakshmi.n@example.edu,MECH,Fluid Mechanics,Wed,12:15-13:15
+Prof. Lakshmi N,lakshmi.n@example.edu,MECH,Fluid Mechanics,Wed,14:00-15:00
+Prof. Lakshmi N,lakshmi.n@example.edu,MECH,Fluid Mechanics,Wed,15:00-16:00
+Prof. Lakshmi N,lakshmi.n@example.edu,MECH,Fluid Mechanics,Thu,10:00-11:00
+Prof. Lakshmi N,lakshmi.n@example.edu,MECH,Fluid Mechanics,Thu,11:15-12:15
+Prof. Lakshmi N,lakshmi.n@example.edu,MECH,Fluid Mechanics,Fri,09:00-10:00
+Prof. Lakshmi N,lakshmi.n@example.edu,MECH,Fluid Mechanics,Fri,11:15-12:15
+Prof. Lakshmi N,lakshmi.n@example.edu,MECH,Fluid Mechanics,Fri,14:00-15:00
+Dr. Karthik V,karthik.v@example.edu,MECH,Machine Design,Mon,10:00-11:00
+Dr. Karthik V,karthik.v@example.edu,MECH,Machine Design,Mon,12:15-13:15
+Dr. Karthik V,karthik.v@example.edu,MECH,Machine Design,Mon,14:00-15:00
+Dr. Karthik V,karthik.v@example.edu,MECH,Machine Design,Tue,09:00-10:00
+Dr. Karthik V,karthik.v@example.edu,MECH,Machine Design,Tue,12:15-13:15
+Dr. Karthik V,karthik.v@example.edu,MECH,Machine Design,Tue,14:00-15:00
+Dr. Karthik V,karthik.v@example.edu,MECH,Machine Design,Tue,15:00-16:00
+Dr. Karthik V,karthik.v@example.edu,MECH,Machine Design,Wed,10:00-11:00
+Dr. Karthik V,karthik.v@example.edu,MECH,Machine Design,Wed,12:15-13:15
+Dr. Karthik V,karthik.v@example.edu,MECH,Machine Design,Wed,14:00-15:00
+Dr. Karthik V,karthik.v@example.edu,MECH,Machine Design,Thu,11:15-12:15
+Dr. Karthik V,karthik.v@example.edu,MECH,Machine Design,Thu,12:15-13:15
+Dr. Karthik V,karthik.v@example.edu,MECH,Machine Design,Thu,14:00-15:00
+Dr. Karthik V,karthik.v@example.edu,MECH,Machine Design,Thu,15:00-16:00
+Dr. Karthik V,karthik.v@example.edu,MECH,Machine Design,Fri,14:00-15:00
+Prof. Sneha Joshi,sneha.joshi@example.edu,MECH,Manufacturing Tech,Mon,10:00-11:00
+Prof. Sneha Joshi,sneha.joshi@example.edu,MECH,Manufacturing Tech,Mon,12:15-13:15
+Prof. Sneha Joshi,sneha.joshi@example.edu,MECH,Manufacturing Tech,Tue,11:15-12:15
+Prof. Sneha Joshi,sneha.joshi@example.edu,MECH,Manufacturing Tech,Tue,12:15-13:15
+Prof. Sneha Joshi,sneha.joshi@example.edu,MECH,Manufacturing Tech,Tue,14:00-15:00
+Prof. Sneha Joshi,sneha.joshi@example.edu,MECH,Manufacturing Tech,Tue,15:00-16:00
+Prof. Sneha Joshi,sneha.joshi@example.edu,MECH,Manufacturing Tech,Wed,09:00-10:00
+Prof. Sneha Joshi,sneha.joshi@example.edu,MECH,Manufacturing Tech,Wed,10:00-11:00
+Prof. Sneha Joshi,sneha.joshi@example.edu,MECH,Manufacturing Tech,Wed,12:15-13:15
+Prof. Sneha Joshi,sneha.joshi@example.edu,MECH,Manufacturing Tech,Wed,14:00-15:00
+Prof. Sneha Joshi,sneha.joshi@example.edu,MECH,Manufacturing Tech,Wed,15:00-16:00
+Prof. Sneha Joshi,sneha.joshi@example.edu,MECH,Manufacturing Tech,Thu,09:00-10:00
+Prof. Sneha Joshi,sneha.joshi@example.edu,MECH,Manufacturing Tech,Thu,10:00-11:00
+Prof. Sneha Joshi,sneha.joshi@example.edu,MECH,Manufacturing Tech,Thu,14:00-15:00
+Prof. Sneha Joshi,sneha.joshi@example.edu,MECH,Manufacturing Tech,Fri,09:00-10:00
+Prof. Sneha Joshi,sneha.joshi@example.edu,MECH,Manufacturing Tech,Fri,12:15-13:15
+Prof. Sneha Joshi,sneha.joshi@example.edu,MECH,Manufacturing Tech,Fri,15:00-16:00
