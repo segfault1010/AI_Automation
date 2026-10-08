@@ -1,0 +1,169 @@
+roll_no,name,email,phone,department,adviser_name,adviser_email,subject,classes_held,classes_attended
+23CS001,Rohan Bose,rohan.bose1@example.edu,+919819375836,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Data Structures,45,39
+23CS001,Rohan Bose,rohan.bose1@example.edu,+919888248519,CSE,Dr. Meena Iyer,meena.iyer@example.edu,DBMS,42,37
+23CS001,Rohan Bose,rohan.bose1@example.edu,+919866255890,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Operating Systems,46,40
+23CS001,Rohan Bose,rohan.bose1@example.edu,+919886665755,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Computer Networks,40,35
+23CS002,Shreya Patel,shreya.patel2@example.edu,+919888592782,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Data Structures,45,41
+23CS002,Shreya Patel,shreya.patel2@example.edu,+919850298754,CSE,Dr. Meena Iyer,meena.iyer@example.edu,DBMS,42,39
+23CS002,Shreya Patel,shreya.patel2@example.edu,+919866119495,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Operating Systems,46,45
+23CS002,Shreya Patel,shreya.patel2@example.edu,+919884903659,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Computer Networks,40,37
+23CS003,Rahul Patel,rahul.patel3@example.edu,+919899141000,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Data Structures,45,44
+23CS003,Rahul Patel,rahul.patel3@example.edu,+919861780050,CSE,Dr. Meena Iyer,meena.iyer@example.edu,DBMS,42,41
+23CS003,Rahul Patel,rahul.patel3@example.edu,+919848578460,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Operating Systems,46,43
+23CS003,Rahul Patel,rahul.patel3@example.edu,+919863907779,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Computer Networks,40,38
+23CS004,Manoj Kumar,manoj.kumar4@example.edu,+919830256261,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Data Structures,45,38
+23CS004,Manoj Kumar,manoj.kumar4@example.edu,+919845265254,CSE,Dr. Meena Iyer,meena.iyer@example.edu,DBMS,42,34
+23CS004,Manoj Kumar,manoj.kumar4@example.edu,+919879188088,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Operating Systems,46,37
+23CS004,Manoj Kumar,manoj.kumar4@example.edu,+919835583179,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Computer Networks,40,32
+23CS005,Meera Iyer,meera.iyer5@example.edu,+919813422671,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Data Structures,45,41
+23CS005,Meera Iyer,meera.iyer5@example.edu,+919858877189,CSE,Dr. Meena Iyer,meena.iyer@example.edu,DBMS,42,40
+23CS005,Meera Iyer,meera.iyer5@example.edu,+919821527244,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Operating Systems,46,45
+23CS005,Meera Iyer,meera.iyer5@example.edu,+919837543491,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Computer Networks,40,39
+23CS006,Pranav Gupta,pranav.gupta6@example.edu,+919879578048,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Data Structures,45,34
+23CS006,Pranav Gupta,pranav.gupta6@example.edu,+919836192056,CSE,Dr. Meena Iyer,meena.iyer@example.edu,DBMS,42,33
+23CS006,Pranav Gupta,pranav.gupta6@example.edu,+919847502921,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Operating Systems,46,38
+23CS006,Pranav Gupta,pranav.gupta6@example.edu,+919820809644,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Computer Networks,40,31
+23CS007,Vivek Pillai,vivek.pillai7@example.edu,+919821378775,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Data Structures,45,39
+23CS007,Vivek Pillai,vivek.pillai7@example.edu,+919863128543,CSE,Dr. Meena Iyer,meena.iyer@example.edu,DBMS,42,36
+23CS007,Vivek Pillai,vivek.pillai7@example.edu,+919898027796,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Operating Systems,46,39
+23CS007,Vivek Pillai,vivek.pillai7@example.edu,+919811911654,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Computer Networks,40,35
+23CS008,Keerthana Nair,keerthana.nair8@example.edu,+919844811353,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Data Structures,45,35
+23CS008,Keerthana Nair,keerthana.nair8@example.edu,+919879358465,CSE,Dr. Meena Iyer,meena.iyer@example.edu,DBMS,42,36
+23CS008,Keerthana Nair,keerthana.nair8@example.edu,+919834576324,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Operating Systems,46,37
+23CS008,Keerthana Nair,keerthana.nair8@example.edu,+919853752583,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Computer Networks,40,33
+23CS009,Deepika Das,deepika.das9@example.edu,+919885394042,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Data Structures,45,42
+23CS009,Deepika Das,deepika.das9@example.edu,+919847203213,CSE,Dr. Meena Iyer,meena.iyer@example.edu,DBMS,42,40
+23CS009,Deepika Das,deepika.das9@example.edu,+919844841887,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Operating Systems,46,44
+23CS009,Deepika Das,deepika.das9@example.edu,+919819736972,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Computer Networks,40,39
+23CS010,Vivek Subramanian,vivek.subramanian10@example.edu,+919843971558,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Data Structures,45,44
+23CS010,Vivek Subramanian,vivek.subramanian10@example.edu,+919899635023,CSE,Dr. Meena Iyer,meena.iyer@example.edu,DBMS,42,41
+23CS010,Vivek Subramanian,vivek.subramanian10@example.edu,+919822374072,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Operating Systems,46,46
+23CS010,Vivek Subramanian,vivek.subramanian10@example.edu,+919893742074,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Computer Networks,40,38
+23CS011,Ananya Joshi,ananya.joshi11@example.edu,+919846298660,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Data Structures,45,34
+23CS011,Ananya Joshi,ananya.joshi11@example.edu,+919853895707,CSE,Dr. Meena Iyer,meena.iyer@example.edu,DBMS,42,34
+23CS011,Ananya Joshi,ananya.joshi11@example.edu,+919844970682,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Operating Systems,46,34
+23CS011,Ananya Joshi,ananya.joshi11@example.edu,+919866070842,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Computer Networks,40,30
+23CS012,Pranav Nair,pranav.nair12@example.edu,+919881281134,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Data Structures,45,31
+23CS012,Pranav Nair,pranav.nair12@example.edu,+919877867728,CSE,Dr. Meena Iyer,meena.iyer@example.edu,DBMS,42,25
+23CS012,Pranav Nair,pranav.nair12@example.edu,+919898115205,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Operating Systems,46,32
+23CS012,Pranav Nair,pranav.nair12@example.edu,+919895359381,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Computer Networks,40,29
+23CS013,Manoj Reddy,manoj.reddy13@example.edu,+919861121087,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Data Structures,45,44
+23CS013,Manoj Reddy,manoj.reddy13@example.edu,+919810486232,CSE,Dr. Meena Iyer,meena.iyer@example.edu,DBMS,42,41
+23CS013,Manoj Reddy,manoj.reddy13@example.edu,+919810143467,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Operating Systems,46,43
+23CS013,Manoj Reddy,manoj.reddy13@example.edu,+919822046497,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Computer Networks,40,39
+23CS014,Sneha Menon,sneha.menon14@example.edu,+919890068835,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Data Structures,45,40
+23CS014,Sneha Menon,sneha.menon14@example.edu,+919829428313,CSE,Dr. Meena Iyer,meena.iyer@example.edu,DBMS,42,37
+23CS014,Sneha Menon,sneha.menon14@example.edu,+919880297512,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Operating Systems,46,41
+23CS014,Sneha Menon,sneha.menon14@example.edu,+919896287208,CSE,Dr. Meena Iyer,meena.iyer@example.edu,Computer Networks,40,35
+23EC001,Sneha Pillai,sneha.pillai15@example.edu,+919873477626,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Signals & Systems,43,38
+23EC001,Sneha Pillai,sneha.pillai15@example.edu,+919820014369,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Digital Electronics,47,41
+23EC001,Sneha Pillai,sneha.pillai15@example.edu,+919859014774,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Microprocessors,44,39
+23EC001,Sneha Pillai,sneha.pillai15@example.edu,+919828885403,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Communication Theory,48,43
+23EC002,Aarav Rao,aarav.rao16@example.edu,+919848900721,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Signals & Systems,43,35
+23EC002,Aarav Rao,aarav.rao16@example.edu,+919846930712,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Digital Electronics,47,37
+23EC002,Aarav Rao,aarav.rao16@example.edu,+919852359299,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Microprocessors,44,38
+23EC002,Aarav Rao,aarav.rao16@example.edu,+919884377153,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Communication Theory,48,39
+23EC003,Priyanka Patel,priyanka.patel17@example.edu,+919883834272,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Signals & Systems,43,39
+23EC003,Priyanka Patel,priyanka.patel17@example.edu,+919898046202,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Digital Electronics,47,44
+23EC003,Priyanka Patel,priyanka.patel17@example.edu,+919876716382,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Microprocessors,44,40
+23EC003,Priyanka Patel,priyanka.patel17@example.edu,+919822226475,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Communication Theory,48,44
+23EC004,Gokul Sharma,gokul.sharma18@example.edu,+919818329487,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Signals & Systems,43,34
+23EC004,Gokul Sharma,gokul.sharma18@example.edu,+919838986082,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Digital Electronics,47,38
+23EC004,Gokul Sharma,gokul.sharma18@example.edu,+919812927357,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Microprocessors,44,35
+23EC004,Gokul Sharma,gokul.sharma18@example.edu,+919810023983,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Communication Theory,48,38
+23EC005,Keerthana Pillai,keerthana.pillai19@example.edu,+919896885593,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Signals & Systems,43,30
+23EC005,Keerthana Pillai,keerthana.pillai19@example.edu,+919850772964,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Digital Electronics,47,28
+23EC005,Keerthana Pillai,keerthana.pillai19@example.edu,+919850312198,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Microprocessors,44,27
+23EC005,Keerthana Pillai,keerthana.pillai19@example.edu,+919850469503,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Communication Theory,48,29
+23EC006,Nikhil Bose,nikhil.bose20@example.edu,+919851258238,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Signals & Systems,43,37
+23EC006,Nikhil Bose,nikhil.bose20@example.edu,+919899570878,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Digital Electronics,47,37
+23EC006,Nikhil Bose,nikhil.bose20@example.edu,+919863198298,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Microprocessors,44,34
+23EC006,Nikhil Bose,nikhil.bose20@example.edu,+919851837778,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Communication Theory,48,37
+23EC007,Ishita Menon,ishita.menon21@example.edu,+919865972695,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Signals & Systems,43,33
+23EC007,Ishita Menon,ishita.menon21@example.edu,+919865752022,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Digital Electronics,47,35
+23EC007,Ishita Menon,ishita.menon21@example.edu,+919825194192,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Microprocessors,44,36
+23EC007,Ishita Menon,ishita.menon21@example.edu,+919814280698,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Communication Theory,48,41
+23EC008,Manoj Rao,manoj.rao22@example.edu,+919826603844,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Signals & Systems,43,29
+23EC008,Manoj Rao,manoj.rao22@example.edu,+919821778983,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Digital Electronics,47,34
+23EC008,Manoj Rao,manoj.rao22@example.edu,+919873690921,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Microprocessors,44,29
+23EC008,Manoj Rao,manoj.rao22@example.edu,+919872283819,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Communication Theory,48,32
+23EC009,Arjun Nair,arjun.nair23@example.edu,+919845188193,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Signals & Systems,43,37
+23EC009,Arjun Nair,arjun.nair23@example.edu,+919818768726,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Digital Electronics,47,39
+23EC009,Arjun Nair,arjun.nair23@example.edu,+919867705312,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Microprocessors,44,37
+23EC009,Arjun Nair,arjun.nair23@example.edu,+919830309186,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Communication Theory,48,37
+23EC010,Pooja Das,pooja.das24@example.edu,+919814545111,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Signals & Systems,43,33
+23EC010,Pooja Das,pooja.das24@example.edu,+919893832604,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Digital Electronics,47,35
+23EC010,Pooja Das,pooja.das24@example.edu,+919827841718,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Microprocessors,44,38
+23EC010,Pooja Das,pooja.das24@example.edu,+919849449733,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Communication Theory,48,39
+23EC011,Pooja Menon,pooja.menon25@example.edu,+919887615529,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Signals & Systems,43,33
+23EC011,Pooja Menon,pooja.menon25@example.edu,+919823494578,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Digital Electronics,47,38
+23EC011,Pooja Menon,pooja.menon25@example.edu,+919860180826,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Microprocessors,44,34
+23EC011,Pooja Menon,pooja.menon25@example.edu,+919836059929,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Communication Theory,48,39
+23EC012,Keerthana Reddy,keerthana.reddy26@example.edu,+919893208009,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Signals & Systems,43,42
+23EC012,Keerthana Reddy,keerthana.reddy26@example.edu,+919890453242,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Digital Electronics,47,44
+23EC012,Keerthana Reddy,keerthana.reddy26@example.edu,+919820460227,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Microprocessors,44,43
+23EC012,Keerthana Reddy,keerthana.reddy26@example.edu,+919883838220,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Communication Theory,48,46
+23EC013,Nikhil Reddy,nikhil.reddy27@example.edu,+919886037035,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Signals & Systems,43,43
+23EC013,Nikhil Reddy,nikhil.reddy27@example.edu,+919862443042,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Digital Electronics,47,42
+23EC013,Nikhil Reddy,nikhil.reddy27@example.edu,+919887550420,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Microprocessors,44,42
+23EC013,Nikhil Reddy,nikhil.reddy27@example.edu,+919863246742,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Communication Theory,48,44
+23EC014,Swathi Gupta,swathi.gupta28@example.edu,+919836486755,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Signals & Systems,43,39
+23EC014,Swathi Gupta,swathi.gupta28@example.edu,+919862062410,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Digital Electronics,47,47
+23EC014,Swathi Gupta,swathi.gupta28@example.edu,+919836321833,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Microprocessors,44,42
+23EC014,Swathi Gupta,swathi.gupta28@example.edu,+919830061140,ECE,Dr. Ramesh Pillai,ramesh.pillai@example.edu,Communication Theory,48,43
+23ME001,Gokul Pillai,gokul.pillai29@example.edu,+919857096651,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Thermodynamics,41,40
+23ME001,Gokul Pillai,gokul.pillai29@example.edu,+919845281500,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Fluid Mechanics,41,37
+23ME001,Gokul Pillai,gokul.pillai29@example.edu,+919853999836,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Machine Design,43,40
+23ME001,Gokul Pillai,gokul.pillai29@example.edu,+919870805810,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Manufacturing Tech,42,41
+23ME002,Shreya Subramanian,shreya.subramanian30@example.edu,+919854403096,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Thermodynamics,41,32
+23ME002,Shreya Subramanian,shreya.subramanian30@example.edu,+919888634183,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Fluid Mechanics,41,32
+23ME002,Shreya Subramanian,shreya.subramanian30@example.edu,+919858868539,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Machine Design,43,35
+23ME002,Shreya Subramanian,shreya.subramanian30@example.edu,+919857936069,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Manufacturing Tech,42,33
+23ME003,Karthik Nair,karthik.nair31@example.edu,+919870512479,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Thermodynamics,41,38
+23ME003,Karthik Nair,karthik.nair31@example.edu,+919885474812,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Fluid Mechanics,41,39
+23ME003,Karthik Nair,karthik.nair31@example.edu,+919864490884,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Machine Design,43,40
+23ME003,Karthik Nair,karthik.nair31@example.edu,+919836778888,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Manufacturing Tech,42,38
+23ME004,Manoj Krishnan,manoj.krishnan32@example.edu,+919882263676,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Thermodynamics,41,38
+23ME004,Manoj Krishnan,manoj.krishnan32@example.edu,+919840326282,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Fluid Mechanics,41,40
+23ME004,Manoj Krishnan,manoj.krishnan32@example.edu,+919845339330,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Machine Design,43,41
+23ME004,Manoj Krishnan,manoj.krishnan32@example.edu,+919839124647,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Manufacturing Tech,42,41
+23ME005,Aarav Reddy,aarav.reddy33@example.edu,+919862171394,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Thermodynamics,41,40
+23ME005,Aarav Reddy,aarav.reddy33@example.edu,+919881988473,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Fluid Mechanics,41,38
+23ME005,Aarav Reddy,aarav.reddy33@example.edu,+919886549802,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Machine Design,43,42
+23ME005,Aarav Reddy,aarav.reddy33@example.edu,+919814417590,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Manufacturing Tech,42,39
+23ME006,Lavanya Joshi,lavanya.joshi34@example.edu,+919815723892,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Thermodynamics,41,40
+23ME006,Lavanya Joshi,lavanya.joshi34@example.edu,+919861518491,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Fluid Mechanics,41,38
+23ME006,Lavanya Joshi,lavanya.joshi34@example.edu,+919821739986,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Machine Design,43,39
+23ME006,Lavanya Joshi,lavanya.joshi34@example.edu,+919845052250,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Manufacturing Tech,42,41
+23ME007,Pranav Das,pranav.das35@example.edu,+919814158247,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Thermodynamics,41,41
+23ME007,Pranav Das,pranav.das35@example.edu,+919885980310,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Fluid Mechanics,41,39
+23ME007,Pranav Das,pranav.das35@example.edu,+919848699623,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Machine Design,43,41
+23ME007,Pranav Das,pranav.das35@example.edu,+919876381627,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Manufacturing Tech,42,40
+23ME008,Arjun Krishnan,arjun.krishnan36@example.edu,+919895433834,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Thermodynamics,41,25
+23ME008,Arjun Krishnan,arjun.krishnan36@example.edu,+919821565931,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Fluid Mechanics,41,27
+23ME008,Arjun Krishnan,arjun.krishnan36@example.edu,+919832965294,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Machine Design,43,29
+23ME008,Arjun Krishnan,arjun.krishnan36@example.edu,+919891248554,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Manufacturing Tech,42,30
+23ME009,Harish Reddy,harish.reddy37@example.edu,+919844522530,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Thermodynamics,41,33
+23ME009,Harish Reddy,harish.reddy37@example.edu,+919845900931,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Fluid Mechanics,41,34
+23ME009,Harish Reddy,harish.reddy37@example.edu,+919856792606,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Machine Design,43,36
+23ME009,Harish Reddy,harish.reddy37@example.edu,+919832092442,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Manufacturing Tech,42,36
+23ME010,Karthik Reddy,karthik.reddy38@example.edu,+919837708439,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Thermodynamics,41,33
+23ME010,Karthik Reddy,karthik.reddy38@example.edu,+919829033755,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Fluid Mechanics,41,33
+23ME010,Karthik Reddy,karthik.reddy38@example.edu,+919896865861,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Machine Design,43,34
+23ME010,Karthik Reddy,karthik.reddy38@example.edu,+919894325903,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Manufacturing Tech,42,33
+23ME011,Pranav Patel,pranav.patel39@example.edu,+919898731771,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Thermodynamics,41,36
+23ME011,Pranav Patel,pranav.patel39@example.edu,+919815119806,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Fluid Mechanics,41,36
+23ME011,Pranav Patel,pranav.patel39@example.edu,+919823567666,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Machine Design,43,38
+23ME011,Pranav Patel,pranav.patel39@example.edu,+919880019814,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Manufacturing Tech,42,37
+23ME012,Vivek Subramanian,vivek.subramanian40@example.edu,+919843884301,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Thermodynamics,41,41
+23ME012,Vivek Subramanian,vivek.subramanian40@example.edu,+919857261417,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Fluid Mechanics,41,37
+23ME012,Vivek Subramanian,vivek.subramanian40@example.edu,+919839382030,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Machine Design,43,40
+23ME012,Vivek Subramanian,vivek.subramanian40@example.edu,+919835927110,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Manufacturing Tech,42,38
+23ME013,Manoj Reddy,manoj.reddy41@example.edu,+919883587246,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Thermodynamics,41,40
+23ME013,Manoj Reddy,manoj.reddy41@example.edu,+919867190773,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Fluid Mechanics,41,40
+23ME013,Manoj Reddy,manoj.reddy41@example.edu,+919821465080,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Machine Design,43,42
+23ME013,Manoj Reddy,manoj.reddy41@example.edu,+919881222344,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Manufacturing Tech,42,38
+23ME014,Vivek Iyer,vivek.iyer42@example.edu,+919856498936,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Thermodynamics,41,35
+23ME014,Vivek Iyer,vivek.iyer42@example.edu,+919822134061,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Fluid Mechanics,41,35
+23ME014,Vivek Iyer,vivek.iyer42@example.edu,+919868866038,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Machine Design,43,38
+23ME014,Vivek Iyer,vivek.iyer42@example.edu,+919817845626,MECH,Dr. Anand Krishnan,anand.krishnan@example.edu,Manufacturing Tech,42,36
