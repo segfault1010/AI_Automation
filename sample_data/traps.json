@@ -1,0 +1,22 @@
+{
+  "ddmmyyyy_date": "23-07-2026",
+  "duplicate_attendance_row": {
+    "date": "2026-07-21",
+    "period": 6,
+    "roll_no": "23CSA001",
+    "status": "P",
+    "subject_code": "CS301",
+    "subject_name": "Data Structures"
+  },
+  "exact_85_percent": {
+    "roll_no": "23CSA006",
+    "subject_code": "CS301"
+  },
+  "messy_roll_no": " 23csa005 ",
+  "missing_marks": {
+    "roll_no": "23CSA001",
+    "subject_code": "CS302",
+    "test_name": "Quiz2"
+  },
+  "unknown_roll_no": "23XXZ999"
+}
